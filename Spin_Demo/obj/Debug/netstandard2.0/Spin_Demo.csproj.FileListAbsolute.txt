@@ -1,0 +1,28 @@
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\bin\Debug\netstandard2.0\Spin_Demo.deps.json
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\bin\Debug\netstandard2.0\Spin_Demo.dll
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\bin\Debug\netstandard2.0\ref\Spin_Demo.dll
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\bin\Debug\netstandard2.0\Spin_Demo.pdb
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.csprojAssemblyReference.cache
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\ScratchPage.xaml.g.cs
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.csproj.CoreCompileInputs.cache
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.AssemblyInfoInputs.cache
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.AssemblyInfo.cs
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.dll
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\ref\Spin_Demo.dll
+C:\FREELANCE\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.pdb
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\bin\Debug\netstandard2.0\Spin_Demo.deps.json
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\bin\Debug\netstandard2.0\Spin_Demo.dll
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\bin\Debug\netstandard2.0\ref\Spin_Demo.dll
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\bin\Debug\netstandard2.0\Spin_Demo.pdb
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\ScratchPage.xaml.g.cs
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.csproj.CoreCompileInputs.cache
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.AssemblyInfoInputs.cache
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.AssemblyInfo.cs
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.dll
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\ref\Spin_Demo.dll
+C:\FREELANCE\OTHER\DEVELOPER DETAILS\AK\Spin_Demo\Spin_Demo\obj\Debug\netstandard2.0\Spin_Demo.pdb
